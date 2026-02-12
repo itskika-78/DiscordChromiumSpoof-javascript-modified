@@ -1,8 +1,17 @@
 # DiscordChromiumSpoof-javascript-modified
-Complete discord quest without actual completing them.
 
-What This Script Demonstrates
-AI Explanation:
+Complete discord quest without actual completing them.
+# How to use
+1.Accept a quest under the Quests tab
+2.Press Ctrl+Shift+I to open DevTools
+3.Go to the Console tab
+4.Paste the code in the given file in repository in the console(allow pasting before that).
+
+
+
+
+# What This Script Demonstrates
+# AI Explanation:
 {
 What This Script Shows
 
