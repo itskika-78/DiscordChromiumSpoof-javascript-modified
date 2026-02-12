@@ -8,9 +8,9 @@
 
 3.Go to the Console tab
 
-4.Paste the following code and hit enter:
+4.Paste the following code and hit enter(the console might ask you to allow pastion , enter allow pasting then paste this code):
 
-```
+```javascript
 delete window.$;
 let wpRequire = webpackChunkdiscord_app.push([[Symbol()], {}, r => r]);
 webpackChunkdiscord_app.pop();
