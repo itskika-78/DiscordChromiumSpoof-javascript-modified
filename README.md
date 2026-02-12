@@ -1,5 +1,5 @@
 # Discord Chromium Spoof
-
+Complete any discord quest without actually completing it. :P
 ## How to do it
 
 1.Accept a quest under the Quests tab
