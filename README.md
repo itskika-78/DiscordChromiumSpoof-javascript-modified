@@ -1,3 +1,5 @@
+## This spoof has been fixed by the discord team.
+
 # Discord Chromium Spoof
 Complete any discord quest without actually completing it. :P
 ## How to do it
@@ -190,8 +192,9 @@ if(quests.length === 0) {
 	doJob()
 }
 ```
+<img width="679" height="71" alt="image" src="https://github.com/user-attachments/assets/33185098-f870-435f-bff2-9d0ae76b85a9" />
 
-
+# You might encounter this error after the recent discord update, they changed their web modules for quests so now the quests no more hold the undefined() variable and are secured using a certain key phrase which is protected.
 
 ## What This Script Shows
 # AI Explanation:
