@@ -1,8 +1,22 @@
-# This spoof has been fixed by the discord team.
+# This spoof has been fixed by the discord team.(Although can still be used with vencord plugins)
 
 # Discord Chromium Spoof
 Complete any discord quest without actually completing it. :P
-## How to do it
+# How to do it
+
+## Installing Vencord 
+1.Have the latest version of discord installed on your machine.
+
+2. visit [https://vencord.dev/ ](https://vencord.dev/download/) for downloading the vencord installer.
+
+3.Open the vencord installer and install it in the existing discord folder.
+
+ <img width="860" height="497" alt="Installing-Vencord-app-desktop-1024x592" src="https://github.com/user-attachments/assets/4777d008-15d8-41e6-89d7-eb1d30f7e0f2" />
+
+4.get mmore themes and plugins at https://betterdiscord.app/themes and https://betterdiscord.app/plugins.
+
+
+## Using the spoof in vencord.
 
 1.Accept a quest under the Quests tab
 
@@ -10,7 +24,7 @@ Complete any discord quest without actually completing it. :P
 
 3.Go to the Console tab
 
-4.Paste the following code and hit enter(the console might ask you to allow pastion , enter allow pasting then paste this code):
+4.Paste the following code and hit enter(the console might ask you to allow pasting , enter allow pasting in the console then paste this code):
 
 ```javascript
 delete window.$;
