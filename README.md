@@ -211,7 +211,8 @@ if(quests.length === 0) {
 ## You might encounter this error after the recent discord update, they changed their web modules for quests so now the quests no more hold the undefined() variable and are secured using a certain key phrase which is protected.
 
 ## What This Script Shows
-``` # AI Explanation:
+```
+ # AI Explanation:
 
 This script shows how someone can look inside Discord’s app while it’s running and interact with parts that are normally hidden.
 
